@@ -1,0 +1,12 @@
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\StudentManagement_Demo.exe.config
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\StudentManagement_Demo.exe
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\StudentManagement_Demo.pdb
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\EntityFramework.dll
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\EntityFramework.xml
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\obj\Debug\StudentManagement_Demo.csproj.AssemblyReference.cache
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\obj\Debug\StudentManagement_Demo.csproj.CoreCompileInputs.cache
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\obj\Debug\StudentM.67689F0F.Up2Date
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\obj\Debug\StudentManagement_Demo.exe
+C:\Users\MTI\Source\Repos\MTITrainingTeam\StudentManagement_Demo\StudentManagement_Demo\obj\Debug\StudentManagement_Demo.pdb
